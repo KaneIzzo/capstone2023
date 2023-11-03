@@ -1,0 +1,155 @@
+@font-face {
+	font-family: Ravie; 
+	src: url (RAVIE.TFF) format('truetype'); 
+}
+
+@font-face {
+	font-family: VinaSans;
+	src: url (VINASANS-REGULAR.TFF) format('truetype'); }
+
+
+
+* {
+	padding: 0;
+	margin: 0px;
+	box-sizing: border-box;
+	background-image: linear-gradient(to right,#79BAEC,#306754);
+	color: white;
+	text-shadow: 2px 2px black;
+}
+
+.container {
+	display: flex;
+}
+
+
+
+
+
+
+.definition {
+	font-family: Apple Chancery, cursive;
+	font-size:x-large;
+	text-align: center;
+}
+a {
+	text-decoration: none;
+
+}
+h2{
+	font-family: cursive;
+	text-align: center;
+}
+
+p {
+	line-height: 1;
+}
+
+img { 
+	display:block;
+	margin-left:0;
+	margin-right:auto;
+	margin-bottom: 100px;
+	height: 400;
+}
+
+
+
+.box-2 {
+	flex: 3.75;
+	line-height: 1;
+	text-align: left;
+
+}
+
+h1 {
+	text-align: center;
+	font-family: cursive;
+	font-size: large;
+}
+
+h2 {
+	text-align: left;
+}
+
+
+.footer {
+
+}
+
+h1 {
+
+	font-size:2em;
+	padding: 10px;
+}
+.swim-lessons {
+	
+	text-align: center;
+	font-size: 30px;
+	margin-right: 10px;
+	padding-bottom: 200px;
+
+}
+
+
+.footer-image 
+img {
+	height: 600px;
+	padding: 20px;
+	margin-bottom: -20px;
+}
+
+.left-menu {
+	padding-bottom: 90px;
+}
+
+
+.copyright {
+	margin-top: 700px;
+}
+
+
+/*waves Waves Waves*/
+.waves {
+	font-family: Ravie;
+	text-align: center;
+	word-spacing: 70px;
+	font-size:xx-large;
+}
+</div
+<body>
+
+/*Header Image*/
+<style>
+	header {
+		background-color: white;
+		padding: 0xp;
+		text-align: auto;
+	} 
+	
+	img {
+		width: 100%;
+		height: 225px;
+	}
+
+
+/*All Small Text*/
+
+p {
+	font-size: 1em;
+	margin: 30px;
+	text-align: justify-all;
+}
+
+
+b {
+	background-image: none;
+	color: #306754;
+}
+
+i {
+	background-image: none;
+	color: #306754;
+}
+</style>
+</body>
